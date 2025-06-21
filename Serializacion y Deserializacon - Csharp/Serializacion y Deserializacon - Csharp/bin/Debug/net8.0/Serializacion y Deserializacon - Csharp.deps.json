@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Serializacion y Deserializacon - Csharp/1.0.0": {
+        "runtime": {
+          "Serializacion y Deserializacon - Csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Serializacion y Deserializacon - Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

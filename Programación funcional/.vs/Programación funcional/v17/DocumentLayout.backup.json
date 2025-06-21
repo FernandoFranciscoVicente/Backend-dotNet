@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fernando VI\\source\\repos\\Programaci\u00F3n funcional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1141BA83-9B4D-4528-9D81-F2203A4B766F}|Programaci\u00F3n funcional\\Programaci\u00F3n funcional.csproj|c:\\users\\fernando vi\\source\\repos\\programaci\u00F3n funcional\\programaci\u00F3n funcional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1141BA83-9B4D-4528-9D81-F2203A4B766F}|Programaci\u00F3n funcional\\Programaci\u00F3n funcional.csproj|solutionrelative:programaci\u00F3n funcional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando VI\\source\\repos\\Programaci\u00F3n funcional\\Programaci\u00F3n funcional\\Program.cs",
+              "RelativeDocumentMoniker": "Programaci\u00F3n funcional\\Program.cs",
+              "ToolTip": "C:\\Users\\Fernando VI\\source\\repos\\Programaci\u00F3n funcional\\Programaci\u00F3n funcional\\Program.cs*",
+              "RelativeToolTip": "Programaci\u00F3n funcional\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:24:28.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

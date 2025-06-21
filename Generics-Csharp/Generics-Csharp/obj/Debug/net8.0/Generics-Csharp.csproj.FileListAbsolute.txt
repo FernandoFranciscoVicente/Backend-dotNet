@@ -1,0 +1,14 @@
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\bin\Debug\net8.0\Generics-Csharp.exe
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\bin\Debug\net8.0\Generics-Csharp.deps.json
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\bin\Debug\net8.0\Generics-Csharp.runtimeconfig.json
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\bin\Debug\net8.0\Generics-Csharp.dll
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\bin\Debug\net8.0\Generics-Csharp.pdb
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\obj\Debug\net8.0\Generics-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\obj\Debug\net8.0\Generics-Csharp.AssemblyInfoInputs.cache
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\obj\Debug\net8.0\Generics-Csharp.AssemblyInfo.cs
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\obj\Debug\net8.0\Generics-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\obj\Debug\net8.0\Generics-Csharp.dll
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\obj\Debug\net8.0\refint\Generics-Csharp.dll
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\obj\Debug\net8.0\Generics-Csharp.pdb
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\obj\Debug\net8.0\Generics-Csharp.genruntimeconfig.cache
+C:\Users\Fernando VI\source\repos\Generics-Csharp\Generics-Csharp\obj\Debug\net8.0\ref\Generics-Csharp.dll

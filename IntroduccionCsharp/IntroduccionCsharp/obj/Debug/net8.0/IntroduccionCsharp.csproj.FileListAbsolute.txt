@@ -1,0 +1,14 @@
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\bin\Debug\net8.0\IntroduccionCsharp.exe
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\bin\Debug\net8.0\IntroduccionCsharp.deps.json
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\bin\Debug\net8.0\IntroduccionCsharp.runtimeconfig.json
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\bin\Debug\net8.0\IntroduccionCsharp.dll
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\bin\Debug\net8.0\IntroduccionCsharp.pdb
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.AssemblyInfoInputs.cache
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.AssemblyInfo.cs
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.dll
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\refint\IntroduccionCsharp.dll
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.pdb
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.genruntimeconfig.cache
+C:\Users\Fernando VI\source\repos\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\ref\IntroduccionCsharp.dll

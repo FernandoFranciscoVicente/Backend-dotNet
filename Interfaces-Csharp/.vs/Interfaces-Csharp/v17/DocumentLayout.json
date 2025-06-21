@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fernando VI\\source\\repos\\Interfaces-Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D985B439-C314-4B36-B9B0-7FB152557C2B}|Interfaces-Csharp\\Interfaces-Csharp.csproj|c:\\users\\fernando vi\\source\\repos\\interfaces-csharp\\interfaces-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D985B439-C314-4B36-B9B0-7FB152557C2B}|Interfaces-Csharp\\Interfaces-Csharp.csproj|solutionrelative:interfaces-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando VI\\source\\repos\\Interfaces-Csharp\\Interfaces-Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces-Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Fernando VI\\source\\repos\\Interfaces-Csharp\\Interfaces-Csharp\\Program.cs",
+              "RelativeToolTip": "Interfaces-Csharp\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T19:42:43.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

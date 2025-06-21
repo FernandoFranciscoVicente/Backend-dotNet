@@ -1,0 +1,14 @@
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\bin\Debug\net8.0\Programación funcional.exe
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\bin\Debug\net8.0\Programación funcional.deps.json
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\bin\Debug\net8.0\Programación funcional.runtimeconfig.json
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\bin\Debug\net8.0\Programación funcional.dll
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\bin\Debug\net8.0\Programación funcional.pdb
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\obj\Debug\net8.0\Programación funcional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\obj\Debug\net8.0\Programación funcional.AssemblyInfoInputs.cache
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\obj\Debug\net8.0\Programación funcional.AssemblyInfo.cs
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\obj\Debug\net8.0\Programación funcional.csproj.CoreCompileInputs.cache
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\obj\Debug\net8.0\Programación funcional.dll
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\obj\Debug\net8.0\refint\Programación funcional.dll
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\obj\Debug\net8.0\Programación funcional.pdb
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\obj\Debug\net8.0\Programación funcional.genruntimeconfig.cache
+C:\Users\Fernando VI\source\repos\Programación funcional\Programación funcional\obj\Debug\net8.0\ref\Programación funcional.dll

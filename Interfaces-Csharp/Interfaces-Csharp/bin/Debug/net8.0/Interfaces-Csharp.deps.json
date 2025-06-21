@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Interfaces-Csharp/1.0.0": {
+        "runtime": {
+          "Interfaces-Csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interfaces-Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

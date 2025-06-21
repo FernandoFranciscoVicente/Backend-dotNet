@@ -1,0 +1,14 @@
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\bin\Debug\net8.0\Interfaces-Csharp.exe
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\bin\Debug\net8.0\Interfaces-Csharp.deps.json
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\bin\Debug\net8.0\Interfaces-Csharp.runtimeconfig.json
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\bin\Debug\net8.0\Interfaces-Csharp.dll
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\bin\Debug\net8.0\Interfaces-Csharp.pdb
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\obj\Debug\net8.0\Interfaces-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\obj\Debug\net8.0\Interfaces-Csharp.AssemblyInfoInputs.cache
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\obj\Debug\net8.0\Interfaces-Csharp.AssemblyInfo.cs
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\obj\Debug\net8.0\Interfaces-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\obj\Debug\net8.0\Interfaces-Csharp.dll
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\obj\Debug\net8.0\refint\Interfaces-Csharp.dll
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\obj\Debug\net8.0\Interfaces-Csharp.pdb
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\obj\Debug\net8.0\Interfaces-Csharp.genruntimeconfig.cache
+C:\Users\Fernando VI\source\repos\Interfaces-Csharp\Interfaces-Csharp\obj\Debug\net8.0\ref\Interfaces-Csharp.dll

@@ -1,0 +1,14 @@
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\bin\Debug\net8.0\Serializacion y Deserializacon - Csharp.exe
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\bin\Debug\net8.0\Serializacion y Deserializacon - Csharp.deps.json
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\bin\Debug\net8.0\Serializacion y Deserializacon - Csharp.runtimeconfig.json
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\bin\Debug\net8.0\Serializacion y Deserializacon - Csharp.dll
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\bin\Debug\net8.0\Serializacion y Deserializacon - Csharp.pdb
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\obj\Debug\net8.0\Serializacion y Deserializacon - Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\obj\Debug\net8.0\Serializacion y Deserializacon - Csharp.AssemblyInfoInputs.cache
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\obj\Debug\net8.0\Serializacion y Deserializacon - Csharp.AssemblyInfo.cs
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\obj\Debug\net8.0\Serializacion y Deserializacon - Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\obj\Debug\net8.0\Serializacion y Deserializacon - Csharp.dll
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\obj\Debug\net8.0\refint\Serializacion y Deserializacon - Csharp.dll
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\obj\Debug\net8.0\Serializacion y Deserializacon - Csharp.pdb
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\obj\Debug\net8.0\Serializacion y Deserializacon - Csharp.genruntimeconfig.cache
+C:\Users\Fernando VI\source\repos\Serializacion y Deserializacon - Csharp\Serializacion y Deserializacon - Csharp\obj\Debug\net8.0\ref\Serializacion y Deserializacon - Csharp.dll
