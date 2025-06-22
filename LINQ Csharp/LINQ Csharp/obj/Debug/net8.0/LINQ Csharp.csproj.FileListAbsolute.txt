@@ -1,0 +1,15 @@
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\bin\Debug\net8.0\LINQ Csharp.exe
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\bin\Debug\net8.0\LINQ Csharp.deps.json
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\bin\Debug\net8.0\LINQ Csharp.runtimeconfig.json
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\bin\Debug\net8.0\LINQ Csharp.dll
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\bin\Debug\net8.0\LINQ Csharp.pdb
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\obj\Debug\net8.0\LINQ Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\obj\Debug\net8.0\LINQ Csharp.AssemblyInfoInputs.cache
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\obj\Debug\net8.0\LINQ Csharp.AssemblyInfo.cs
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\obj\Debug\net8.0\LINQ Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\obj\Debug\net8.0\LINQ Csharp.sourcelink.json
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\obj\Debug\net8.0\LINQ Csharp.dll
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\obj\Debug\net8.0\refint\LINQ Csharp.dll
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\obj\Debug\net8.0\LINQ Csharp.pdb
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\obj\Debug\net8.0\LINQ Csharp.genruntimeconfig.cache
+C:\Users\Fernando VI\source\repos\LINQ Csharp\LINQ Csharp\obj\Debug\net8.0\ref\LINQ Csharp.dll

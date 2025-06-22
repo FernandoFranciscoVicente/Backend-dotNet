@@ -28,4 +28,3 @@ public struct Punto
     }
 }
 
-//Funciones de primera clase

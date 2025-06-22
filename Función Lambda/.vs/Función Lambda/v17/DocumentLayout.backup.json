@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fernando VI\\source\\repos\\Funci\u00F3n Lambda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6A499C-5795-4CAD-97DB-206C6D8302E1}|Funci\u00F3n Lambda\\Funci\u00F3n Lambda.csproj|c:\\users\\fernando vi\\source\\repos\\funci\u00F3n lambda\\funci\u00F3n lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6A499C-5795-4CAD-97DB-206C6D8302E1}|Funci\u00F3n Lambda\\Funci\u00F3n Lambda.csproj|solutionrelative:funci\u00F3n lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando VI\\source\\repos\\Funci\u00F3n Lambda\\Funci\u00F3n Lambda\\Program.cs",
+              "RelativeDocumentMoniker": "Funci\u00F3n Lambda\\Program.cs",
+              "ToolTip": "C:\\Users\\Fernando VI\\source\\repos\\Funci\u00F3n Lambda\\Funci\u00F3n Lambda\\Program.cs",
+              "RelativeToolTip": "Funci\u00F3n Lambda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:13:37.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

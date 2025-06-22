@@ -1,0 +1,15 @@
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\bin\Debug\net8.0\Funciones de primera clase.exe
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\bin\Debug\net8.0\Funciones de primera clase.deps.json
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\bin\Debug\net8.0\Funciones de primera clase.runtimeconfig.json
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\bin\Debug\net8.0\Funciones de primera clase.dll
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\bin\Debug\net8.0\Funciones de primera clase.pdb
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\obj\Debug\net8.0\Funciones de primera clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\obj\Debug\net8.0\Funciones de primera clase.AssemblyInfoInputs.cache
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\obj\Debug\net8.0\Funciones de primera clase.AssemblyInfo.cs
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\obj\Debug\net8.0\Funciones de primera clase.csproj.CoreCompileInputs.cache
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\obj\Debug\net8.0\Funciones de primera clase.sourcelink.json
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\obj\Debug\net8.0\Funciones de primera clase.dll
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\obj\Debug\net8.0\refint\Funciones de primera clase.dll
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\obj\Debug\net8.0\Funciones de primera clase.pdb
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\obj\Debug\net8.0\Funciones de primera clase.genruntimeconfig.cache
+C:\Users\Fernando VI\source\repos\Funciones de primera clase\Funciones de primera clase\obj\Debug\net8.0\ref\Funciones de primera clase.dll

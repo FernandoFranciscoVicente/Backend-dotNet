@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Funciones de primera clase/1.0.0": {
+        "runtime": {
+          "Funciones de primera clase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funciones de primera clase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
