@@ -413,6 +413,30 @@
           }
         }
       }
+    },
+    "/api/Some/sync": {
+      "get": {
+        "tags": [
+          "Some"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Some/async": {
+      "get": {
+        "tags": [
+          "Some"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
