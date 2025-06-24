@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Backend.Services;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Backend.Controllers
@@ -7,6 +8,14 @@ namespace Backend.Controllers
     [ApiController]
     public class PeopleController : ControllerBase
     {
+        private IPeopleService _peopleService;
+        //Inyectamos la interfaz IPeopleService
+        public PeopleController([FromKeyedServices("peopleService")] IPeopleService peopleService)
+        {
+            //Creamos el objeto de la clase PeopleService
+            _peopleService = peopleService;
+        }
+
         //Creamos un método para la clase
         //Regresamos una lista de objetos (People)
         [HttpGet("all")]
@@ -38,8 +47,23 @@ namespace Backend.Controllers
         public List<People> Get(string search) =>
             Repository.People.Where(funcionAnonima =>
             funcionAnonima.Name.ToUpper().Contains(search.ToUpper())).ToList();
-    }
 
+
+        //Nuevo método que contiene interfaz de retorno
+        [HttpPost]
+        //IActionResult no recibe un tipo, pues no retorna nada
+        public IActionResult Add(People people)
+        {   //Validar que el nombre de la persona exista
+            if (!_peopleService.Validate(people))
+            {
+                return BadRequest();
+            }
+            //Se guarda en la memoria RAM
+            Repository.People.Add(people);
+            return NoContent();
+        }
+
+    }
 
     //Simularemos una base de datos en memoria
     public class Repository
