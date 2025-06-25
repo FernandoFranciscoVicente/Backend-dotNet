@@ -11,6 +11,16 @@ builder.Services.AddKeyedSingleton<IRandomService, RandomService>("randomSinglet
 builder.Services.AddKeyedScoped<IRandomService, RandomService>("randomScoped");
 builder.Services.AddKeyedTransient<IRandomService, RandomService>("randomTransient");
 
+//Inyectamos la interfaz IPostService por medio de un KeyedScoped
+builder.Services.AddScoped<IPostService, PostService>();
+
+// Inyectamos una configuración inicial para el HttpClient para usar en cualquier servicio que implemente IPostService
+builder.Services.AddHttpClient<IPostService, PostService>(c =>
+{
+    //Configuramos el HttpClient con una URL base
+    c.BaseAddress = new Uri(builder.Configuration["BaseUrlPost"]);
+});
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

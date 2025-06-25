@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|c:\\users\\fernando vi\\source\\repos\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|c:\\users\\fernando vi\\source\\repos\\backend\\backend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|c:\\users\\fernando vi\\source\\repos\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|c:\\users\\fernando vi\\source\\repos\\backend\\backend\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|solutionrelative:backend\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|c:\\users\\fernando vi\\source\\repos\\backend\\backend\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|c:\\users\\fernando vi\\source\\repos\\backend\\backend\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|solutionrelative:backend\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|c:\\users\\fernando vi\\source\\repos\\backend\\backend\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87FBF6B7-4DE7-4F47-AE61-EF5BCF594CDE}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +46,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\Backend\\appsettings.json*",
+              "RelativeToolTip": "Backend\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T22:39:34.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\Backend\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\Backend\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:58:25.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\Backend\\Program.cs*",
+              "RelativeToolTip": "Backend\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:56:41.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\Backend\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\Backend\\Services\\PostService.cs",
+              "RelativeToolTip": "Backend\\Services\\PostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:41:21.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\Backend\\Services\\IPostService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\IPostService.cs",
+              "ToolTip": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\Backend\\Services\\IPostService.cs",
+              "RelativeToolTip": "Backend\\Services\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:34:13.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\Backend\\DTOs\\PostDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\PostDto.cs",
+              "ToolTip": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\Backend\\DTOs\\PostDto.cs",
+              "RelativeToolTip": "Backend\\DTOs\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:30:49.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SomeController.cs",
               "DocumentMoniker": "C:\\Users\\Fernando VI\\source\\repos\\Backend\\Backend\\Controllers\\SomeController.cs",
               "RelativeDocumentMoniker": "Backend\\Controllers\\SomeController.cs",
